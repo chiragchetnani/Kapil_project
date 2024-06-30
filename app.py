@@ -2,7 +2,7 @@ from gradio_client import Client
 import streamlit as st 
 import time
 
-client = Client("AyushS9020/Kapil_Project")
+client = Client("chiragchetnani/Kapil_Project")
 
 def answer(question) : 
 
